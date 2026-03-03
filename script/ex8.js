@@ -1,0 +1,13 @@
+const numero =Number(prompt("digite  um numero interiro " ))
+alert (numero * 0)
+alert (numero * 1)
+alert  (numero * 2)
+alert (numero * 3 )
+alert (numero * 4 )
+alert (numero * 5 )
+alert (numero * 6 )
+alert (numero * 7 )
+alert (numero * 8 )
+alert (numero * 9 )
+alert (numero * 10 )
+
